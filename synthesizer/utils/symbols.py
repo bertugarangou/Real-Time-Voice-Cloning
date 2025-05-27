@@ -1,17 +1,21 @@
 """
 Defines the set of symbols used in text input to the model.
 
-The default is a set of ASCII characters that works well for English or text that has been run
-through Unidecode. For other data, you can modify _characters. See TRAINING_DATA.md for details.
+The default here is adapted for Catalan, including accented characters and punctuation.
 """
-# from . import cmudict
 
 _pad        = "_"
 _eos        = "~"
-_characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!\'\"(),-.:;? "
 
-# Prepend "@" to ARPAbet symbols to ensure uniqueness (some are the same as uppercase letters):
-#_arpabet = ["@' + s for s in cmudict.valid_symbols]
+# Catalan letters, accents, and punctuation
+_characters = (
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZ"            # Uppercase
+    "abcdefghijklmnopqrstuvwxyz"            # Lowercase
+    "àèéíïòóúüç"                            # Accented Catalan letters
+    "ÀÈÉÍÏÒÓÚÜÇ"                            # Uppercase accents (optional)
+    "!\'\"(),-.:;?¡¿·"                      # Punctuation including Spanish-style
+    " "                                     # Space
+)
 
-# Export all symbols:
-symbols = [_pad, _eos] + list(_characters) #+ _arpabet
+# Final list of symbols used by the model
+symbols = [_pad, _eos] + list(_characters)
