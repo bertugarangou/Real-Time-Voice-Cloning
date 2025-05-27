@@ -1,9 +1,17 @@
+# Projecte Aina:
+
 MIT License
 
-Modified & original work Copyright (c) 2019 Corentin Jemine (https://github.com/CorentinJ)
-Original work Copyright (c) 2018 Rayhane Mama (https://github.com/Rayhane-mamah)
-Original work Copyright (c) 2019 fatchord (https://github.com/fatchord)
-Original work Copyright (c) 2015 braindead (https://github.com/braindead)
+Copyright (c) 2021 Projecte Aina
+
+# Software original amb edicions pròpies:
+
+MIT License
+Copyright (c) 2025 Albert Garangou Culebras (https://github.com/bertugarangou)  
+Copyright (c) 2019 Corentin Jemine (https://github.com/CorentinJ)  
+Original work Copyright (c) 2018 Rayhane Mama (https://github.com/Rayhane-mamah)  
+Original work Copyright (c) 2019 fatchord (https://github.com/fatchord)  
+Original work Copyright (c) 2015 braindead (https://github.com/braindead)  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
