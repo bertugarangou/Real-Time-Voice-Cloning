@@ -1,0 +1,1 @@
+Els materials no han d'experimentar cap alteració que afecti el funcionament del limitador.

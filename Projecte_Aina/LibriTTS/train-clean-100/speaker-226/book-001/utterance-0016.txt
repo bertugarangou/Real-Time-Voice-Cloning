@@ -1,0 +1,1 @@
+Normalment, quan actualitzeu un paquet a Fedora, heu de descarregar el paquet sencer.

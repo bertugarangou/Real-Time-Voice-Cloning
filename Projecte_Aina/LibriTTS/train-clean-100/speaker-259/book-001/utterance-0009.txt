@@ -1,0 +1,1 @@
+Les accions són nominatives, estan representades per títols i es preveu l'emissió de títols múltiples.

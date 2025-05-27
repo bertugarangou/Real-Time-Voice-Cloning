@@ -1,0 +1,1 @@
+La següent versió funcionarà tant en Linux com en Microsoft Windows.

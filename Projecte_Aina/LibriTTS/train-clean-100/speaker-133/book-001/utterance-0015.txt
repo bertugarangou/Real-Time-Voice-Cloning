@@ -1,0 +1,1 @@
+Un connector de línia d'ordres que troba programari quan executeu noves ordres.

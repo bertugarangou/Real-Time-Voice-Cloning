@@ -1,0 +1,1 @@
+Si la llum és verda, la càrrega està completa i si és taronja no.

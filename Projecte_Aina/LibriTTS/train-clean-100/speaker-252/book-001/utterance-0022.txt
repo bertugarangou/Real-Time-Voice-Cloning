@@ -1,0 +1,1 @@
+Internament, està proveït d'un element denominat goleró, que impedix el retrocés dels exemplars capturats.

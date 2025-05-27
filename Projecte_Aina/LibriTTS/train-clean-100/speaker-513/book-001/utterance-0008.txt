@@ -1,0 +1,1 @@
+El jacobià del gradient és la matriu hessiana.

@@ -1,0 +1,1 @@
+Va desenvolupar diversos sistemes d'interpretació de l'Alcorà.

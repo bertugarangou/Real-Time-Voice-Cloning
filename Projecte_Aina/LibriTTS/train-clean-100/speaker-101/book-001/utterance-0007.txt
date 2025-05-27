@@ -1,0 +1,1 @@
+És la formada per les cinc cartes correlatives més altes d'un mateix coll.

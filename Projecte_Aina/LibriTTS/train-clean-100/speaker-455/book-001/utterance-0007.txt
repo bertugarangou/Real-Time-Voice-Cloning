@@ -1,0 +1,1 @@
+Per al cas d'un sistema conservatiu l'energia potencial no depèn del temps.

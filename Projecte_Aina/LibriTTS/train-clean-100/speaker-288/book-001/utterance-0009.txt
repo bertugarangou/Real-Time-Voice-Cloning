@@ -1,0 +1,1 @@
+El grau d'un vèrtex és el nombre d'arestes que hi incideixen.

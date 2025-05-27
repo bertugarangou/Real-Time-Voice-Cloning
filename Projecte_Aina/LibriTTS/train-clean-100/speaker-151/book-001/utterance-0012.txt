@@ -1,0 +1,1 @@
+De les deu preguntes de meteorologia, el nombre màxim d'errors permesos serà de cinc.

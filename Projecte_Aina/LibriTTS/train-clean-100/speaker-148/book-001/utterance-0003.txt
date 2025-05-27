@@ -1,0 +1,1 @@
+Evidentment, això representava reescriure tota la interfície d'usuari del navegador sota aquesta nova tecnologia.

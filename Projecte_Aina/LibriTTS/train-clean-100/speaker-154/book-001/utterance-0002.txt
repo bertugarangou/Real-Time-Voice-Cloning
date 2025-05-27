@@ -1,0 +1,1 @@
+Previsualització dels estils en el selector.

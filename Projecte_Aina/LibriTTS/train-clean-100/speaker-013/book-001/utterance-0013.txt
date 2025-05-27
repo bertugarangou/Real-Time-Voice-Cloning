@@ -1,0 +1,1 @@
+Gestiona les incidències de cobertura i de la xarxa i marca les prioritzacions d'intervenció.

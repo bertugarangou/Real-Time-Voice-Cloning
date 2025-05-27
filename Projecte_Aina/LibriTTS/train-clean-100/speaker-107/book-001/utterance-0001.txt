@@ -1,0 +1,1 @@
+Aquest paquet només funciona amb Windows Vista i les versions de trenta-dos bits.

@@ -1,0 +1,1 @@
+Basant-se en l'exigència menor de memòria necessària, les operacions prenen tanmateix menys temps que anteriorment.

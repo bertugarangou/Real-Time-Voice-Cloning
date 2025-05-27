@@ -1,0 +1,1 @@
+En el cas que el cost total justificat siga inferior a aquest percentatge, es deixarà sense efecte l'ajuda.

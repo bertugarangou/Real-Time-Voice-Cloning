@@ -1,0 +1,1 @@
+Noves opcions d'integració de correu electrònic per usuaris que vulguin enviar correus amb adjuncions.

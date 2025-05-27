@@ -1,0 +1,1 @@
+El corrector s'actualitza trimestralment amb les noves versions oficials de LanguageTool.

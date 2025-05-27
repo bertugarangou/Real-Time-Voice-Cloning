@@ -1,0 +1,1 @@
+Permet l'ús de fins a deu mil fulls en cada document.

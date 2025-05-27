@@ -1,0 +1,1 @@
+Mostrarà el resultat a la resta de membres de la mesa i a les persones que estiguin presents.

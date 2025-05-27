@@ -1,0 +1,1 @@
+Com he dit abans, la següent fase era la d'implementació del web nou utilitzant un gestor de contingut.

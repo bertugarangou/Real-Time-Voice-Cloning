@@ -1,0 +1,1 @@
+La part inferior de la pantalla mostra el velocímetre, el quilometratge i altres indicadors.

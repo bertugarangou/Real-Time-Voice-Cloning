@@ -1,0 +1,1 @@
+Aquest mètode permet reduir el termini de restauració de la zona.

@@ -1,0 +1,1 @@
+Es varen haver de fer altres correccions menors a la part del motor encarregada de generar els suggeriments.

@@ -1,0 +1,1 @@
+Millora de l'ergonomia en el Calc per al full i la gestió de les cel·les.

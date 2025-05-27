@@ -1,0 +1,1 @@
+En mecànica estadística es denominen distribucions de Boltzmann i són utilitzes en funcions de mostreig.

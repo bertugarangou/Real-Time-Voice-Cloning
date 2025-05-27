@@ -1,0 +1,1 @@
+Aquest model parteix de descompondre el senyal com les bandes crítiques de l'oïda humana.

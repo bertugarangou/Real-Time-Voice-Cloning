@@ -1,0 +1,1 @@
+Aquestes especificacions s'utilitzen llavors com a base per a la planificació de la versió nova de l'Ubuntu.

@@ -1,0 +1,1 @@
+Ens comprometem que el temps d'espera “estàndard” no sigui superior a deu minuts en cas de presentar una denúncia.

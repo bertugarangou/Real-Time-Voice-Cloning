@@ -1,0 +1,1 @@
+Les accions amb una puntuació inferior a cinquanta punts no poden ser atorgades.

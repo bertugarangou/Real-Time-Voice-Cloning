@@ -1,0 +1,1 @@
+Cada fitxer pot contenir una o més explotacions i espècies.

@@ -1,0 +1,1 @@
+Incidències que impedeixen l'enviament d'imatges des d'una modalitat.

@@ -1,0 +1,1 @@
+Aquestes entitats s'organitzen en una estructura lògica jeràrquicament, determinant l'estructura dels elements del document.

@@ -1,0 +1,1 @@
+Igualment proposa ubicacions profundes amb almenys doble profunditat que la longitud dels panys de les gàbies.

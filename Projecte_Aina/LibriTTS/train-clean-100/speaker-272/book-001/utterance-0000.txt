@@ -1,0 +1,1 @@
+Fer les tasques de manteniment i de neteja, que el programa pugui exigir.

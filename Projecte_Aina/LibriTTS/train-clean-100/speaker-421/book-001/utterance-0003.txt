@@ -1,0 +1,1 @@
+Aquests efectes inclouen la difusió controlada de calor i la transferència de massa.

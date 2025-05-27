@@ -1,0 +1,1 @@
+Et permet dividir cada fotograma en capes i dibuixar sobre una base principalment vectorial.

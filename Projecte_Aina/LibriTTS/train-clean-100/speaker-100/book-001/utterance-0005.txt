@@ -1,0 +1,1 @@
+Fedora Server, incorpora les eines necessàries per administrar serveis de xarxa i contenidors.

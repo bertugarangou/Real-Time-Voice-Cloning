@@ -1,0 +1,1 @@
+Coordinen, supervisen i integren tasques heterogènies i ordenen el treball d'un conjunt de col·laboradors.

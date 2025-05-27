@@ -1,0 +1,1 @@
+En tercer lloc, ens estalviem problemes d'identificació amb el model de llengua.

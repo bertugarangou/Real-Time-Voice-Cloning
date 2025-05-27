@@ -1,0 +1,1 @@
+És ideal per a esdeveniments i és la base principal de l’execució d’una producció organitzada.

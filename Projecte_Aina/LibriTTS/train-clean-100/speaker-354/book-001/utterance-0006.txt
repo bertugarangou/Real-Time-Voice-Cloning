@@ -1,0 +1,1 @@
+També emet directives i dóna seguiment a les avaluacions de l'execució d'ajut.

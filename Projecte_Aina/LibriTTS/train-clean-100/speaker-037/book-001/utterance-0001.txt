@@ -1,0 +1,1 @@
+Tanmateix, amb càlculs és possible determinar quin dels camins de sortida és el seleccionat.

@@ -1,0 +1,1 @@
+Per això sempre és bo analitzar la representació gràfica de les variables.

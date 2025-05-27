@@ -1,0 +1,1 @@
+Dona d'alta i corregeix dades de les empreses adjudicatàries que figuren a la base de dades d'empreses.

@@ -1,0 +1,1 @@
+Funció: empunyadures i poms que permeten moure el volant quan hi ha afectació en una o les dues mans.

@@ -1,0 +1,1 @@
+És el procediment aritmètic que converteix la distribució de vots en un repartiment de càrrecs electius.

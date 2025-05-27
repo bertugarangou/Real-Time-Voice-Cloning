@@ -1,0 +1,1 @@
+En cas de no haver-n'hi cap, l'acord inicial esdevindrà definitiu.

@@ -1,0 +1,1 @@
+En casos especials podria estar referenciat a un rellotge atòmic.

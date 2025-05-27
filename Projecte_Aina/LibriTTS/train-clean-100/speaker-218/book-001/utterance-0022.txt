@@ -1,0 +1,1 @@
+L'immoble està estructurat internament basant-se en dues crugies.

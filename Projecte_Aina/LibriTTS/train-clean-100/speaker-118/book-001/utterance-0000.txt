@@ -1,0 +1,1 @@
+L'estructura va tindre tres pisos però només es conserva una secció del pis més baix.

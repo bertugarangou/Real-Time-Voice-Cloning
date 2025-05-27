@@ -1,0 +1,1 @@
+Això que hem vist que s'esdevé al web es produeix també en un àmbit molt important: l'intercanvi de dades entre aplicacions.

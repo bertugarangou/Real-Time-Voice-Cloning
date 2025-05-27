@@ -1,0 +1,1 @@
+Té forma de polígon quadrilàter.

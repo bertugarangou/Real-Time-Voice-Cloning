@@ -1,0 +1,1 @@
+En concret ara es permet la selecció de polígons, amb restricció d'angles i edició de segments.

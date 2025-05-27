@@ -1,0 +1,1 @@
+Cada agrupació i categoria és un subgrup de la col·lecció.

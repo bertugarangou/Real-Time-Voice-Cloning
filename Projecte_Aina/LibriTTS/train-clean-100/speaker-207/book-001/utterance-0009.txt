@@ -1,0 +1,1 @@
+Eliminar totes les columnes que fan referència al Nivell.

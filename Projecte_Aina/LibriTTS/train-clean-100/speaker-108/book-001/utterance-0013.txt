@@ -1,0 +1,1 @@
+Determina la tarifa, preu del bitllet o servei, tenint en compte els costos.

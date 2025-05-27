@@ -1,0 +1,1 @@
+L'opció per defecte de país és ca, per tant no cal especificar-la.

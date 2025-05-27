@@ -1,0 +1,1 @@
+Funció: permet gravar paraules o frases i reproduir-les prement el botó.

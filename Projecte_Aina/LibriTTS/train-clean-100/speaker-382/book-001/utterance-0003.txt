@@ -1,0 +1,1 @@
+Pot servir també per efectuar la transformació inversa del moviment circular en moviment rectilini.

@@ -1,0 +1,1 @@
+Correrà després cap a la segona barra, la qual superarà deixant-la a la seva dreta.

@@ -1,0 +1,1 @@
+Funció: permet prémer l'accelerador amb el peu esquerre.

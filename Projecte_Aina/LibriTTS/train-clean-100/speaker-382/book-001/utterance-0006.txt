@@ -1,0 +1,1 @@
+Existeixen algorismes més sofisticats, normalment inspirats en algorismes per a la factorització entera.

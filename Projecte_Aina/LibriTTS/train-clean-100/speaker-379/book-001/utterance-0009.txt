@@ -1,0 +1,1 @@
+A àlgebra elemental, es donen mètodes per a resoldre sistemes d'equacions lineals de diverses incògnites.

@@ -1,0 +1,1 @@
+La majoria de webs que tenen problemes de compatibilitat només han estat provats amb Internet Explorer.

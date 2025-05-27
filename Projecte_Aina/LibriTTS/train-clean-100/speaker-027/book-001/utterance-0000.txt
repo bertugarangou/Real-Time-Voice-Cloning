@@ -1,0 +1,1 @@
+El robot que automatitza la traducció al català té algunes mancances que estem mirant de solucionar.

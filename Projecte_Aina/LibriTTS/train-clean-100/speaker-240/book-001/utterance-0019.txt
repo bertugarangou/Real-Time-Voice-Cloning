@@ -1,0 +1,1 @@
+S'ha millorat la barra d'eines de cerca amb una llista desplegable de tipus de cerca per a agilitzar la navegació.

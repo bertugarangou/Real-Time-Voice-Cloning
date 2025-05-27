@@ -1,0 +1,1 @@
+Els efectes de camins dinàmics proporcionen noves maneres de dibuixar.

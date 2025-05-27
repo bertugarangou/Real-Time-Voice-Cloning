@@ -1,0 +1,1 @@
+Això fa necessari tractar de manera separada els diferents supòsits.

@@ -1,0 +1,1 @@
+El distribuïdor pot comprovar el contingut de les successives remeses que se li lliurin.

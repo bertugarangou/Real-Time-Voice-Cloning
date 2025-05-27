@@ -1,0 +1,1 @@
+De fet, la seva solució fent servir un sistema de resolució d'inferència és exponencialment difícil.

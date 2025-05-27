@@ -1,0 +1,1 @@
+Adapta extensions col·locant-les en funció de les demandes dels clients.

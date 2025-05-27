@@ -1,0 +1,1 @@
+El sistema operatiu és el programa que interacciona entre el maquinari, l'usuari i les aplicacions.

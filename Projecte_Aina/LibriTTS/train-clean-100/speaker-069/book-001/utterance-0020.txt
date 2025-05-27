@@ -1,0 +1,1 @@
+Els projectes lliures tendeixen a crear documentació amb manuals d'ús i instal·lació o recopilatoris de preguntes i respostes més freqüents.

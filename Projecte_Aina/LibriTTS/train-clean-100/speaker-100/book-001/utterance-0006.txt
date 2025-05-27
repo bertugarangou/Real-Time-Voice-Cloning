@@ -1,0 +1,1 @@
+Creació, modificació i supressió de fitxers que contenen dades de caràcter personal.

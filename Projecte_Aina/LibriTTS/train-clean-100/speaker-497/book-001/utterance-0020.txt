@@ -1,0 +1,1 @@
+Prepara colors especials desenvolupant i calculant barreges de colors.
