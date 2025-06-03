@@ -71,8 +71,9 @@ def train(run_id: str, syn_dir: Path, voc_dir: Path, models_dir: Path, ground_tr
                   ('LR', hp.voc_lr),
                   ('Sequence Len', hp.voc_seq_len)])
 
-    for epoch in range(1, 350):
-        data_loader = DataLoader(dataset, hp.voc_batch_size, shuffle=True, num_workers=2, collate_fn=collate_vocoder)
+   
+    for epoch in range(1, 9900):
+        data_loader = DataLoader(dataset, hp.voc_batch_size, shuffle=True, num_workers=8, collate_fn=collate_vocoder)
         start = time.time()
         running_loss = 0.
 
@@ -112,7 +113,6 @@ def train(run_id: str, syn_dir: Path, voc_dir: Path, models_dir: Path, ground_tr
                 f"steps/s | Step: {k}k | "
             stream(msg)
 
-
-        gen_testset(model, test_loader, hp.voc_gen_at_checkpoint, hp.voc_gen_batched,
-                    hp.voc_target, hp.voc_overlap, model_dir)
+        if backup_every != 0 and step % backup_every == 0 :
+            gen_testset(model, test_loader, hp.voc_gen_at_checkpoint, hp.voc_gen_batched, hp.voc_target, hp.voc_overlap, model_dir)
         print("")
