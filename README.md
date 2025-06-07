@@ -1,5 +1,11 @@
 Versió corregida per suportar UTF-8 en llengües com el **català**. 
 
+## Carpeta Utilities
+Conté dependències de Microsoft
+
+## Carpeta venv-anaconda-conda
+Conté el paquet del virtual enviroment d'Anaconda (Python)
+____
 
 # Real-Time Voice Cloning
 
